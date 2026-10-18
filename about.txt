@@ -1,0 +1,5 @@
+Write about your archive here. This is a plain text file, so just type.
+
+Leave a blank line between paragraphs to start a new one. Explain what the archive is, how long you have been collecting, where the stickers come from, or anything else you want visitors to know.
+
+You can edit this file on GitHub at any time and the About page updates by itself.
